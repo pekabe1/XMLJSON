@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Book Id = "1" UserName="Admin" Email="Fajna1234" />
+  <Book Id = "2" UserName="Adasdmin" Email="Fajna1234" />
+  <Book Id = "3" UserName="Admsadin" Email="Fajnaasd1234" />
+</root>

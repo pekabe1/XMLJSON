@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Book Id = "1" Title="Admin" Category="Fajna1234" Status="Admin jolo" />
+  <Book Id = "2" Title="Adsdmin" Category="asd" Status="Admin jolo" />
+  <Book Id = "3" Title="x" Category="asd" Status="Admin asd" />
+</root>
+
